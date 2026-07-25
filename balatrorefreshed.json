@@ -1,0 +1,17 @@
+{
+  "id": "balatrorefreshed",
+  "name": "Balatro Refreshed",
+  "author": [
+    "Pepix"
+  ],
+  "description": "Balatro Refreshed its a mod created only by me (Pepix) on a attempt to make a vanilla-like experience",
+  "prefix": "Refreshed",
+  "main_file": "main.lua",
+  "version": "1.9.5~",
+  "priority": 0,
+  "badge_colour": "123499",
+  "badge_text_colour": "ffffff",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)"
+  ]
+}
