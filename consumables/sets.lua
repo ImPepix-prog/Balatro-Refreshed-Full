@@ -1,0 +1,35 @@
+SMODS.ConsumableType {
+    key = 'loteria',
+    primary_colour = HEX('e87bf8'),
+    secondary_colour = HEX('e87bf8'),
+    collection_rows = { 4, 5 },
+    shop_rate = 0.5,
+    cards = {
+        ['c_Refreshed_elgallo'] = true,
+        ['c_Refreshed_elborracho'] = true,
+        ['c_Refreshed_elvaliente'] = true,
+        ['c_Refreshed_lamaceta'] = true,
+        ['c_Refreshed_elpescado'] = true,
+        ['c_Refreshed_elalacran'] = true,
+        ['c_Refreshed_laestrella'] = true,
+        ['c_Refreshed_elsol'] = true,
+        ['c_Refreshed_laluna'] = true,
+        ['c_Refreshed_labotella'] = true,
+        ['c_Refreshed_lamano'] = true,
+        ['c_Refreshed_labota'] = true,
+        ['c_Refreshed_elgorrito'] = true,
+        ['c_Refreshed_lacorona'] = true,
+        ['c_Refreshed_lacampana'] = true,
+        ['c_Refreshed_lasirena'] = true,
+        ['c_Refreshed_elapache'] = true,
+        ['c_Refreshed_elcatrin'] = true,
+        ['c_Refreshed_lasandia'] = true,
+        ['c_Refreshed_larana'] = true,
+        ['c_Refreshed_elcantarito'] = true,
+        ['c_Refreshed_elcazo'] = true
+    },
+    loc_txt = {
+        name = "Loteria",
+        collection = "Loteria Cards",
+    }
+}
